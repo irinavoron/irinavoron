@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1Oe8CTbilXPQkrFrs7kJYXh7I4mQ6uMo2/view?usp=sharing" target="_blank">Irina</a> </h1>
 
-### QA Automation Engineer
+<h3 align="center">QA Engineer</h1>
 
 - 🌱 I’m currently learning **QA Automation, Python**
 
@@ -63,7 +63,8 @@ Implemented:
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/voronirina">t.me/voronirina</a>
+<img src="images/icons/telegram.svg" width="20" height="20"/> <a target="_blank" href="https://t.me/voronirina">t.me/voronirina</a>  
+<img src="images/icons/linkedin.svg" width="20" height="20"/> <a target="_blank" href="https://www.linkedin.com/in/irina-voron">irina-voron</a>
 
 
 
