@@ -17,7 +17,7 @@
 completed as part of <a target="_blank" href="https://qa.guru">qa.guru</a> course
 #### UI Testing
 Project: <a target="_blank" href="https://github.com/irinavoron/qu.guru_diploma_swagLabs_ui">Autotests for Swag Labs</a></br></br>
-<p align="center">
+
 <a href="https://www.jetbrains.com/pycharm/"><img src="images/icons/pycharm.svg" width="30" height="30"  alt="PyCharm"/></a>
 <a href="https://www.python.com/"><img src="images/icons/python.svg" width="30" height="30"  alt="Python"/></a>
 <a href="https://github.com/"><img src="images/icons/github-2.svg" width="30" height="30"  alt="GitHub"/></a>
@@ -27,7 +27,7 @@ Project: <a target="_blank" href="https://github.com/irinavoron/qu.guru_diploma_
 <a href="https://www.jenkins.io/"><img src="images/icons/jenkins.svg" width="30" height="30"  alt="Jenkins"/></a>
 <a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="30" height="30"  alt="Allure TestOps"/></a>  
 <a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="30" height="30"  alt="Jira"/></a>
-</p>
+
 The UI autotests were designed to check the login, cart and inventory page functionalities.  
 
 Implemented:
