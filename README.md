@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1Oe8CTbilXPQkrFrs7kJYXh7I4mQ6uMo2/view?usp=sharing" target="_blank">Irina</a> </h1>
-
-<h3 align="center">QA Engineer</h1>
+<h3 align="center">QA Engineer</h3>
 
 - 🌱 I’m currently learning **QA Automation, Python**
 
@@ -19,15 +18,15 @@ completed as part of <a target="_blank" href="https://qa.guru">qa.guru</a> cours
 #### UI Testing
 Project: <a target="_blank" href="https://github.com/irinavoron/qu.guru_diploma_swagLabs_ui">Autotests for Swag Labs</a></br></br>
 <p align="center">
-<a href="https://www.jetbrains.com/pycharm/"><img src="images/icons/pycharm.svg" width="50" height="50"  alt="PyCharm"/></a>
-<a href="https://www.python.com/"><img src="images/icons/python.svg" width="50" height="50"  alt="Python"/></a>
-<a href="https://github.com/"><img src="images/icons/github-2.svg" width="50" height="50"  alt="GitHub"/></a>
-<a href="https://docs.pytest.org/"><img src="images/icons/pytest.svg" width="50" height="50"  alt="Pytest 5"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="images/icons/selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
-<a href="https://github.com/allure-framework/allure2"><img src="images/icons/allure.svg" width="50" height="50"  alt="Allure"/></a>
-<a href="https://www.jenkins.io/"><img src="images/icons/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>  
-<a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="50" height="50"  alt="Jira"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="images/icons/pycharm.svg" width="30" height="30"  alt="PyCharm"/></a>
+<a href="https://www.python.com/"><img src="images/icons/python.svg" width="30" height="30"  alt="Python"/></a>
+<a href="https://github.com/"><img src="images/icons/github-2.svg" width="30" height="30"  alt="GitHub"/></a>
+<a href="https://docs.pytest.org/"><img src="images/icons/pytest.svg" width="30" height="30"  alt="Pytest 5"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="images/icons/selenoid.svg" width="30" height="30"  alt="Selenoid"/></a>
+<a href="https://github.com/allure-framework/allure2"><img src="images/icons/allure.svg" width="30" height="30"  alt="Allure"/></a>
+<a href="https://www.jenkins.io/"><img src="images/icons/jenkins.svg" width="30" height="30"  alt="Jenkins"/></a>
+<a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="30" height="30"  alt="Allure TestOps"/></a>  
+<a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="30" height="30"  alt="Jira"/></a>
 </p>
 The UI autotests were designed to check the login, cart and inventory page functionalities.  
 
