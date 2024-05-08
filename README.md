@@ -20,12 +20,11 @@ Project: <a target="_blank" href="https://github.com/irinavoron/qu.guru_diploma_
 
 <a href="https://www.jetbrains.com/pycharm/"><img src="images/icons/pycharm.svg" width="40" height="40"  alt="PyCharm"/></a>
 <a href="https://www.python.com/"><img src="images/icons/python.svg" width="40" height="40"  alt="Python"/></a>
-<a href="https://github.com/"><img src="images/icons/github-2.svg" width="40" height="40"  alt="GitHub"/></a>
 <a href="https://docs.pytest.org/"><img src="images/icons/pytest.svg" width="40" height="40"  alt="Pytest 5"/></a>
 <a href="https://aerokube.com/selenoid/"><img src="images/icons/selenoid.svg" width="40" height="40"  alt="Selenoid"/></a>
 <a href="https://github.com/allure-framework/allure2"><img src="images/icons/allure.svg" width="40" height="40"  alt="Allure"/></a>
 <a href="https://www.jenkins.io/"><img src="images/icons/jenkins.svg" width="40" height="40"  alt="Jenkins"/></a>
-<a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="40" height="40"  alt="Allure TestOps"/></a>  
+<a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="40" height="40"  alt="Allure TestOps"/></a> 
 <a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="40" height="40"  alt="Jira"/></a>
 
 The UI autotests were designed to check the login, cart and inventory page functionalities.  
