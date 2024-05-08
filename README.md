@@ -1,53 +1,47 @@
 <h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1Oe8CTbilXPQkrFrs7kJYXh7I4mQ6uMo2/view?usp=sharing" target="_blank">Irina</a> </h1>
-<h3 align="center">QA Automation Engineer</h3>
+
+### QA Automation Engineer
 
 - 🌱 I’m currently learning **QA Automation, Python**
 
 - 🌍 I speak Russian (native), English (B2), German (C1), Italian (A1)
 
-### Connect with me:
-<p align="left">
-<a href="https://t.me/voronirina" target="blank"><img align="center" src="images/icons/telegram.svg" alt="git" height="40" width="40" /></a>
 
+### My QA Path
+- QA Course by <a target="_blank" href="https://ksendzov.com/">Vadim Ksendzov</a>
+- Internship by <a target="_blank" href="https://www.a1qa.com/">A1QA</a>
+- QA Automation Course <a target="_blank" href="https://qa.guru">qa.guru</a>
+
+
+
+### Diploma Project
+completed as part of <a target="_blank" href="https://qa.guru">qa.guru</a> course
+#### UI Testing
+Project: <a target="_blank" href="https://github.com/irinavoron/qu.guru_diploma_swagLabs_ui">Autotests for Swag Labs</a></br></br>
+<p align="center">
+<a href="https://www.jetbrains.com/pycharm/"><img src="images/icons/pycharm.svg" width="50" height="50"  alt="PyCharm"/></a>
+<a href="https://www.python.com/"><img src="images/icons/python.svg" width="50" height="50"  alt="Python"/></a>
+<a href="https://github.com/"><img src="images/icons/github-2.svg" width="50" height="50"  alt="GitHub"/></a>
+<a href="https://docs.pytest.org/"><img src="images/icons/pytest.svg" width="50" height="50"  alt="Pytest 5"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="images/icons/selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
+<a href="https://github.com/allure-framework/allure2"><img src="images/icons/allure.svg" width="50" height="50"  alt="Allure"/></a>
+<a href="https://www.jenkins.io/"><img src="images/icons/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://qameta.io/"><img src="images/icons/allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>  
+<a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="50" height="50"  alt="Jira"/></a>
 </p>
+The UI autotests were designed to check the login, cart and inventory page functionalities.  
 
-[//]: # (### Tools:)
-
-[//]: # (<p align="left"> )
-
-[//]: # (<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="images/icons/pycharm.svg" alt="git" width="40" height="40"/> </a>)
-
-[//]: # (</p>)
-
-
-<table width="100%" border='0'>
-   <tr> 
-    <td width="30%" valign="bottom"><img src="/images/TSU80.jpg"></td><td valign="middle">QA Course by <a target="_blank" href="https://ksendzov.com/">Vadim Ksendzov</a>.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle">Internship by <a target="_blank" href="https://www.a1qa.com/">A1QA</a>.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">QA Automation Course <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-
-  </table>
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
-
-## Дипломный проект
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
-:triangular_flag_on_post: Что особенного:
+Implemented:
 
 - [x] Page Object
-- [x] Параметризованная сборка
-- [x] owner.config
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
+- [x] Parametrized build in Jenkins
+- [x] Allure Report
+- [x] Integration with TestOps
+- [x] TestOps integration with Jira
+- [x] Tests run notification in Telegram
 
 
-## Тестирование REST API
+#### REST API Testing
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
@@ -58,7 +52,7 @@
 - [x] Шаблоны форматирования логов запросов
 
 
-## Тестирование мобильного приложения
+#### Mobile App Testing
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 :heavy_check_mark: Реализованы автотесты мобильного приложения financisto на эмуляторе мобильного устройства.</br></br>
@@ -69,6 +63,7 @@
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
+:cherry_blossom: <a target="_blank" href="https://t.me/voronirina">t.me/voronirina</a>
+
 
 
