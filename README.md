@@ -1,5 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1Oe8CTbilXPQkrFrs7kJYXh7I4mQ6uMo2/view?usp=sharing" target="_blank">Irina</a> </h1>
-<h3 align="center">QA Engineer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=I'm%20Irina%20Voron&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=4169E1&font=Lemon&size=33&center=true&vCenter=true&lines=QA+Engineer">
+</p>
+
+[//]: # (<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1Oe8CTbilXPQkrFrs7kJYXh7I4mQ6uMo2/view?usp=sharing" target="_blank">Irina</a> </h1>)
+
+[//]: # (<h3 align="center">QA Engineer</h3>)
 
 - 🌱 I’m currently learning **QA Automation, Python**
 
