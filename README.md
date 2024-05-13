@@ -59,9 +59,8 @@ Project: <a target="_blank" href="https://github.com/irinavoron/qa.guru_diploma_
 The API autotests were designed to check the login functionality, admin options and feedback submitting.
 
 Implemented:
-- [X] Using the Requests library 
-- [X] Logging method
-- [X] Attaching method for allure report
+- [X] Logging methods
+- [X] Attaching methods for Allure Report
 - [x] Parametrized build in Jenkins
 - [x] Allure Report
 - [x] Integration with TestOps
